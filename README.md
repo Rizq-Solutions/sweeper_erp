@@ -25,4 +25,4 @@ This is a mobile app version for erp project management for Rizq Solutions Clien
 
 **Schedule Add**
 
-<img src="hhttps://github.com/Rizq-Solutions/sweeper_erp/blob/main/20180901_132050000_iOS.png" width="250">
+<img src="https://github.com/Rizq-Solutions/sweeper_erp/blob/main/20180901_132050000_iOS.png" width="250">
