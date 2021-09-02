@@ -1,6 +1,6 @@
 # Rizq Solutions ERP Prototype - Built with Latest React-Native
 
-This is a mobile app version for erp project management for Rizq Solutions Clientele - Sweeper_Erp. We are using temporary Firebase as to start prototyping our development with soon having backend system for this objective
+This is a mobile app version for erp project management for Rizq Solutions Clientele - Sweeper_Erp. We are using temporary Firebase as to start prototyping our development with soon having backend system for this objective.  Here <a href="https://github.com/Rizq-Solutions/sweeper_erp/pulls">https://github.com/Rizq-Solutions/sweeper_erp/pulls</a> to started pull request my branches.
 
 ### Demo
 
