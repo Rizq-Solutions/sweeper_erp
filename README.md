@@ -4,7 +4,7 @@ This is a mobile app version for erp project management for Rizq Solutions Clien
 
 ### Demo
 
-<img src="https://github.com/Rizq-Solutions/sweeper_erp/blob/main/gif1.gif" width="400">
+<img src="https://github.com/Rizq-Solutions/sweeper_erp/blob/main/gif1.gif" width="250">
 
 ### Screen
 **Home**
